@@ -72,10 +72,57 @@ This project focuses on utilizing Power BI for data visualization and business i
 ## Project Description
 
 
+### Page 1
 
+![image](https://github.com/user-attachments/assets/2bcf2cf3-1e88-47ff-893a-9647b4b1c00e)
+### Features
+- **Date Filter**: Allows users to select the range of dates for analysis.
+- **Total Usage Metrics**: Displays total screen time along with average daily use.
+- **Usage by Date Bar Chart**: Visualizes daily screen time allowing for easy trend spotting.
+- **Screen Time Goal Donut Chart**: Shows progress towards the set goal of limiting screen time.
+- **App Usage Tables**: Lists individual apps with corresponding hours spent.
+### Tools and Techniques Used
+- **Card Visualizations**: For key metrics such as total and average screen time.
+- **Bar Chart**: To represent usage over different dates.
+- **Donut Chart**: To depict goals visually.
+- **Tables**: For detailed app-wise usage breakdown.
 
+### Page 2
 
+![image](https://github.com/user-attachments/assets/8d82c9bc-5b1d-45c9-a28f-83b09dbfef94)
 
+### Features
+- **Unlock Count Per Day**: A bar chart showing the number of times the phone was unlocked each day.
+- **Top 4 Apps by Hours Used**: A bar chart displaying the top four apps based on usage hours.
+- **Top 4 Notification Apps**: A bar chart showing the top four apps that sent the most notifications.
+
+### Tools and Techniques Used
+- **Bar Chart**: To visualize daily unlock counts and app usage.
+- **Color Coding**: Different colors to represent various apps for easy differentiation.
+- **Timeline Slider**:Allows users to select specific date ranges for analysis.
+
+## Technologies Used
+- **Power BI**: For creating interactive data visualizations.
+- **SQL**: For data querying and transformation.
+- **Excel**: For data manipulation and preparation.
+- **Python**: For advanced data transformation and analysis.
+- **Azure**: For cloud-based data storage and processing.
+
+### Page 3
+
+![image](https://github.com/user-attachments/assets/c6f152cc-2d34-4b3f-bdae-a2d20ea4ead9)
+
+### Features
+- **App Usage List**: Displays a list of apps with their corresponding usage times in hours and minutes.
+- **Screen Time by App Name**: A bar chart displaying the top four apps based on usage hours.
+- **Date Filters**: A bar chart showing the top four apps that sent the most notifications.
+- **Search Bar**: Enables users to search for specific apps.
+
+### Tools and Techniques Used
+- **Bar Chart**: To visualize screen time by app.
+- **List Visualizations**:  For detailed app usage breakdown.
+- **Date Filters**: To select and analyze specific date ranges.
+- **Search Functionality**: To quickly find specific apps.
 
 ## Technologies Used
 - **Power BI**: For creating interactive data visualizations.

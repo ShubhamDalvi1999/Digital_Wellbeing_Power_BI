@@ -75,12 +75,14 @@ This project focuses on utilizing Power BI for data visualization and business i
 ### Page 1
 
 ![image](https://github.com/user-attachments/assets/2bcf2cf3-1e88-47ff-893a-9647b4b1c00e)
+
 ### Features
 - **Date Filter**: Allows users to select the range of dates for analysis.
 - **Total Usage Metrics**: Displays total screen time along with average daily use.
 - **Usage by Date Bar Chart**: Visualizes daily screen time allowing for easy trend spotting.
 - **Screen Time Goal Donut Chart**: Shows progress towards the set goal of limiting screen time.
 - **App Usage Tables**: Lists individual apps with corresponding hours spent.
+- 
 ### Tools and Techniques Used
 - **Card Visualizations**: For key metrics such as total and average screen time.
 - **Bar Chart**: To represent usage over different dates.
@@ -100,13 +102,6 @@ This project focuses on utilizing Power BI for data visualization and business i
 - **Bar Chart**: To visualize daily unlock counts and app usage.
 - **Color Coding**: Different colors to represent various apps for easy differentiation.
 - **Timeline Slider**:Allows users to select specific date ranges for analysis.
-
-## Technologies Used
-- **Power BI**: For creating interactive data visualizations.
-- **SQL**: For data querying and transformation.
-- **Excel**: For data manipulation and preparation.
-- **Python**: For advanced data transformation and analysis.
-- **Azure**: For cloud-based data storage and processing.
 
 ### Page 3
 

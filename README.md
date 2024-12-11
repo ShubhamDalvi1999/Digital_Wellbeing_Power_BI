@@ -41,7 +41,7 @@
   
  ✌️ &emsp; I love solving complex data problems using cutting-edge technologies. <br/><br/>
  ❤️ &emsp; Passionate about big data technologies, distributed systems and data visualizations. <br/><br/>
- 📧 &emsp; Reach me : dshubhamp1999@gmail.com<br/><br/>
+ 📧 &emsp; Reach me : shubhamdworkmail@gmail.com<br/><br/>
 
 </p>
 <br/>
